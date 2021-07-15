@@ -9,5 +9,6 @@ But I am doing my best to learn new things every day to improve myself.
 
 Projects:
 
+[Portfolio](http://grzegorzszwed.000webhostapp.com/)
 Portfolio : https://github.com/czesuaww/GrzegorzSzwedSite    
-http://grzegorzszwed.000webhostapp.com/
+
