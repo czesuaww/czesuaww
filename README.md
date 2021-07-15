@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Grzegorz. I am new in the frontend development.
+# Hello there
+
+👋 I’m Grzegorz. I am new in the frontend development.
 - 🌱 I’m currently learning HTML CSS JS In future I am planning to learn Angular, React or Vue.
 But I am doing my best to learn new things every day to improve myself. 
 - 💞️ I’m looking to for a job where I can show my motivation, commitment and demonstrate my creativity.
