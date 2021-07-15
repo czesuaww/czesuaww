@@ -2,7 +2,7 @@
 
 -👋 I’m Grzegorz. I am new in the frontend development.
 
--🌱 I’m currently learning HTML CSS JS. 
+-🌱 I’m currently learning HTML CSS/SCSS JS. 
 
 -💞️ I’m looking to for a job where I can show my motivation, commitment and demonstrate my creativity.
 
