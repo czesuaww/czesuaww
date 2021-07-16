@@ -15,9 +15,9 @@ Projects:
 
 [Portfolio](http://grzegorzszwed.000webhostapp.com/)
 
-[Repository](https://github.com/czesuaww/GrzegorzSzwedSite)    
+[Repository to my portfolio](https://github.com/czesuaww/GrzegorzSzwedSite)    
 
 [PhotographSite] Work in progress
 
-[Repository](https://github.com/czesuaww/PhotographSite)
+[Repository to PhotographSite](https://github.com/czesuaww/PhotographSite)
 
