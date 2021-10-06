@@ -13,11 +13,11 @@
 
 Projects:
 
-[Portfolio Live Demo](https://czesuaww.github.io/GrzegorzSzwedSite/)
+[Portfolio Live Demo](https://czesuaww.github.io/GrzegorzSzwedSite/) <There is some problem with loading pictuers, probably issue from github server>
 
 [Repository to my portfolio](https://github.com/czesuaww/GrzegorzSzwedSite)    
 
-[PhotographSite Live Demo](https://czesuaww.github.io/PhotographSite/)
+[PhotographSite Live Demo](https://czesuaww.github.io/PhotographSite/) <There is some problem with loading pictuers, probably issue from github server>
 
 [Repository to PhotographSite](https://github.com/czesuaww/PhotographSite)
 
