@@ -13,11 +13,11 @@
 
 Projects:
 
-[Portfolio](http://grzegorzszwed.000webhostapp.com/)
+[Portfolio Live Demo](http://grzegorzszwed.000webhostapp.com/)
 
 [Repository to my portfolio](https://github.com/czesuaww/GrzegorzSzwedSite)    
 
-[PhotographSite](https://czesuaww.github.io/PhotographSite/)
+[PhotographSite Live Demo](https://czesuaww.github.io/PhotographSite/)
 
 [Repository to PhotographSite](https://github.com/czesuaww/PhotographSite)
 
