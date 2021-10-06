@@ -17,7 +17,7 @@ Projects:
 
 [Repository to my portfolio](https://github.com/czesuaww/GrzegorzSzwedSite)    
 
-[PhotographSite] https://czesuaww.github.io/PhotographSite/
+[PhotographSite](https://czesuaww.github.io/PhotographSite/)
 
 [Repository to PhotographSite](https://github.com/czesuaww/PhotographSite)
 
