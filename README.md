@@ -8,12 +8,12 @@
 
 -I am ready for new challenges and a large dose of knowledge
 
--I am speaking also English 
+-I also speak English 
 
 
 Projects:
 
-[Portfolio Live Demo](http://grzegorzszwed.000webhostapp.com/)
+[Portfolio Live Demo](https://czesuaww.github.io/GrzegorzSzwedSite/)
 
 [Repository to my portfolio](https://github.com/czesuaww/GrzegorzSzwedSite)    
 
