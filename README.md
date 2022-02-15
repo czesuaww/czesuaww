@@ -13,7 +13,7 @@
 
 Projects:
 
-[Portfolio Live Demo](https://czesuaww.github.io/PortfolioSite/) <There is some problem with loading pictuers, probably issue from github server>
+[Portfolio Live Demo](https://czesuaww.github.io/PortfolioSite/) 
 
 [Repository to my portfolio](https://github.com/czesuaww/PortfolioSite)    
 
