@@ -1,13 +1,8 @@
 # Hello there
 
--🌱 I’m currently learning HTML CSS/SCSS JS. 
+-🌱 Frontend Developer 
 
--💞️ I’m looking to for a job where I can show my motivation, commitment and demonstrate my creativity.
-
--I am ready for new challenges and a large dose of knowledge
-
--I also speak English 
-
+-💞️ Still a lot to learn 
 
 Projects:
 
